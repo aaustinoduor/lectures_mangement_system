@@ -1,5 +1,6 @@
 Lecturers Management System Project Modules
-In Lecturers Management System PHP and Mysql database are used. This is the project which keep records of lecturers. Lecturers Management System include admin and users module.
+
+In Lecturers Management System PHP and Mysql database are used. This is a project which keep records of lecturers. Lecturers Management System include admin and users modules.
 
 Admin Module
 
