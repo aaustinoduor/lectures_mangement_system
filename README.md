@@ -21,7 +21,7 @@ Logout: Through this button admin can logout.
 
 Forgot Password: In this section, admin can reset his/her password by using registered email id and contact number.
 
-Teacher Module
+Lecture Module
 
 Dashboard: It is the welcome page for a lecturer.
 
